@@ -1,0 +1,26 @@
+ body{
+    font-family: 'Cairo', "ans-serif";
+ }
+ .Page{
+    width: 80%;
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+    align-items: center;
+    margin: auto;
+
+}
+.yaz{
+
+}
+.dec{
+
+}
+.Page .contant{
+    width: 80%;
+    font-size: 24px;
+
+}
+img{
+    width: 80%;
+}
